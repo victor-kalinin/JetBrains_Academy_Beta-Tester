@@ -1,1 +1,1 @@
-# jetBrains_academy_proj
+# Projects on assignment from JetBrains Academy
